@@ -22,5 +22,5 @@ const seedAll = async () => {
 
   process.exit(0);
 };
-
+// seedAll whenever we use seeds/ index.js
 seedAll();
